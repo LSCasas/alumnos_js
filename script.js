@@ -1,4 +1,4 @@
-fetch("public/alumnos_100.json")
+fetch("alumnos_100.json")
   .then((response) => {
     if (!response.ok) {
       throw new Error("No se pudo cargar el archivo JSON");
