@@ -1,0 +1,608 @@
+[
+  {
+    "matricula": "A0001",
+    "Paterno": "Morales",
+    "Materno": "Silva",
+    "Nombre": "Alejandro"
+  },
+  {
+    "matricula": "A0002",
+    "Paterno": "Morales",
+    "Materno": "Martínez",
+    "Nombre": "Paola"
+  },
+  {
+    "matricula": "A0003",
+    "Paterno": "Ruiz",
+    "Materno": "Gómez",
+    "Nombre": "Valeria"
+  },
+  {
+    "matricula": "A0004",
+    "Paterno": "Delgado",
+    "Materno": "Silva",
+    "Nombre": "Alejandro"
+  },
+  {
+    "matricula": "A0005",
+    "Paterno": "Pérez",
+    "Materno": "López",
+    "Nombre": "Laura"
+  },
+  {
+    "matricula": "A0006",
+    "Paterno": "Morales",
+    "Materno": "Mendoza",
+    "Nombre": "Jorge"
+  },
+  {
+    "matricula": "A0007",
+    "Paterno": "Martínez",
+    "Materno": "Martínez",
+    "Nombre": "María"
+  },
+  {
+    "matricula": "A0008",
+    "Paterno": "Sánchez",
+    "Materno": "Sánchez",
+    "Nombre": "Daniela"
+  },
+  {
+    "matricula": "A0009",
+    "Paterno": "Cruz",
+    "Materno": "Torres",
+    "Nombre": "Andrés"
+  },
+  {
+    "matricula": "A0010",
+    "Paterno": "Hernández",
+    "Materno": "Cruz",
+    "Nombre": "Lucía"
+  },
+  {
+    "matricula": "A0011",
+    "Paterno": "Martínez",
+    "Materno": "Morales",
+    "Nombre": "Jorge"
+  },
+  {
+    "matricula": "A0012",
+    "Paterno": "Fernández",
+    "Materno": "Gómez",
+    "Nombre": "Diana"
+  },
+  {
+    "matricula": "A0013",
+    "Paterno": "Fernández",
+    "Materno": "Pérez",
+    "Nombre": "Sofía"
+  },
+  {
+    "matricula": "A0014",
+    "Paterno": "Delgado",
+    "Materno": "Silva",
+    "Nombre": "José"
+  },
+  {
+    "matricula": "A0015",
+    "Paterno": "Gómez",
+    "Materno": "Gómez",
+    "Nombre": "Jorge"
+  },
+  {
+    "matricula": "A0016",
+    "Paterno": "Torres",
+    "Materno": "Jiménez",
+    "Nombre": "Valeria"
+  },
+  {
+    "matricula": "A0017",
+    "Paterno": "Silva",
+    "Materno": "Navarro",
+    "Nombre": "Sofía"
+  },
+  {
+    "matricula": "A0018",
+    "Paterno": "Mendoza",
+    "Materno": "Fernández",
+    "Nombre": "Pedro"
+  },
+  {
+    "matricula": "A0019",
+    "Paterno": "Delgado",
+    "Materno": "Ramírez",
+    "Nombre": "Diana"
+  },
+  {
+    "matricula": "A0020",
+    "Paterno": "Pérez",
+    "Materno": "Silva",
+    "Nombre": "Ana"
+  },
+  {
+    "matricula": "A0021",
+    "Paterno": "Ruiz",
+    "Materno": "Navarro",
+    "Nombre": "Fernanda"
+  },
+  {
+    "matricula": "A0022",
+    "Paterno": "Delgado",
+    "Materno": "Ruiz",
+    "Nombre": "Laura"
+  },
+  {
+    "matricula": "A0023",
+    "Paterno": "Navarro",
+    "Materno": "Ramírez",
+    "Nombre": "Pedro"
+  },
+  {
+    "matricula": "A0024",
+    "Paterno": "Castillo",
+    "Materno": "López",
+    "Nombre": "María"
+  },
+  {
+    "matricula": "A0025",
+    "Paterno": "Ramírez",
+    "Materno": "Fernández",
+    "Nombre": "Paola"
+  },
+  {
+    "matricula": "A0026",
+    "Paterno": "Silva",
+    "Materno": "Gómez",
+    "Nombre": "Luis"
+  },
+  {
+    "matricula": "A0027",
+    "Paterno": "Silva",
+    "Materno": "Ramírez",
+    "Nombre": "Diana"
+  },
+  {
+    "matricula": "A0028",
+    "Paterno": "Mendoza",
+    "Materno": "Castillo",
+    "Nombre": "Pedro"
+  },
+  {
+    "matricula": "A0029",
+    "Paterno": "Ortiz",
+    "Materno": "Castillo",
+    "Nombre": "Laura"
+  },
+  {
+    "matricula": "A0030",
+    "Paterno": "Castillo",
+    "Materno": "Morales",
+    "Nombre": "María"
+  },
+  {
+    "matricula": "A0031",
+    "Paterno": "López",
+    "Materno": "Fernández",
+    "Nombre": "Ana"
+  },
+  {
+    "matricula": "A0032",
+    "Paterno": "Ortiz",
+    "Materno": "López",
+    "Nombre": "Miguel"
+  },
+  {
+    "matricula": "A0033",
+    "Paterno": "Morales",
+    "Materno": "Delgado",
+    "Nombre": "Diana"
+  },
+  {
+    "matricula": "A0034",
+    "Paterno": "Cruz",
+    "Materno": "Martínez",
+    "Nombre": "Pedro"
+  },
+  {
+    "matricula": "A0035",
+    "Paterno": "Ramírez",
+    "Materno": "Hernández",
+    "Nombre": "Laura"
+  },
+  {
+    "matricula": "A0036",
+    "Paterno": "Ortiz",
+    "Materno": "Silva",
+    "Nombre": "Héctor"
+  },
+  {
+    "matricula": "A0037",
+    "Paterno": "López",
+    "Materno": "Gómez",
+    "Nombre": "Héctor"
+  },
+  {
+    "matricula": "A0038",
+    "Paterno": "Ramírez",
+    "Materno": "Delgado",
+    "Nombre": "Paola"
+  },
+  {
+    "matricula": "A0039",
+    "Paterno": "Navarro",
+    "Materno": "Pérez",
+    "Nombre": "Lucía"
+  },
+  {
+    "matricula": "A0040",
+    "Paterno": "Cruz",
+    "Materno": "Morales",
+    "Nombre": "Paola"
+  },
+  {
+    "matricula": "A0041",
+    "Paterno": "Hernández",
+    "Materno": "Martínez",
+    "Nombre": "Héctor"
+  },
+  {
+    "matricula": "A0042",
+    "Paterno": "Jiménez",
+    "Materno": "Hernández",
+    "Nombre": "Paola"
+  },
+  {
+    "matricula": "A0043",
+    "Paterno": "López",
+    "Materno": "Gómez",
+    "Nombre": "Luis"
+  },
+  {
+    "matricula": "A0044",
+    "Paterno": "Hernández",
+    "Materno": "Sánchez",
+    "Nombre": "Miguel"
+  },
+  {
+    "matricula": "A0045",
+    "Paterno": "Delgado",
+    "Materno": "Cruz",
+    "Nombre": "Daniela"
+  },
+  {
+    "matricula": "A0046",
+    "Paterno": "Ramírez",
+    "Materno": "Silva",
+    "Nombre": "Andrés"
+  },
+  {
+    "matricula": "A0047",
+    "Paterno": "Torres",
+    "Materno": "Ramírez",
+    "Nombre": "Valeria"
+  },
+  {
+    "matricula": "A0048",
+    "Paterno": "Ortiz",
+    "Materno": "Ruiz",
+    "Nombre": "Valeria"
+  },
+  {
+    "matricula": "A0049",
+    "Paterno": "Pérez",
+    "Materno": "Fernández",
+    "Nombre": "Héctor"
+  },
+  {
+    "matricula": "A0050",
+    "Paterno": "Martínez",
+    "Materno": "Jiménez",
+    "Nombre": "Miguel"
+  },
+  {
+    "matricula": "A0051",
+    "Paterno": "Ruiz",
+    "Materno": "Navarro",
+    "Nombre": "Luis"
+  },
+  {
+    "matricula": "A0052",
+    "Paterno": "Jiménez",
+    "Materno": "Martínez",
+    "Nombre": "Lucía"
+  },
+  {
+    "matricula": "A0053",
+    "Paterno": "Cruz",
+    "Materno": "Sánchez",
+    "Nombre": "Daniela"
+  },
+  {
+    "matricula": "A0054",
+    "Paterno": "Martínez",
+    "Materno": "Castillo",
+    "Nombre": "Daniela"
+  },
+  {
+    "matricula": "A0055",
+    "Paterno": "Pérez",
+    "Materno": "Ruiz",
+    "Nombre": "María"
+  },
+  {
+    "matricula": "A0056",
+    "Paterno": "Cruz",
+    "Materno": "Gómez",
+    "Nombre": "José"
+  },
+  {
+    "matricula": "A0057",
+    "Paterno": "Ortiz",
+    "Materno": "Jiménez",
+    "Nombre": "Héctor"
+  },
+  {
+    "matricula": "A0058",
+    "Paterno": "Cruz",
+    "Materno": "Ortiz",
+    "Nombre": "Héctor"
+  },
+  {
+    "matricula": "A0059",
+    "Paterno": "Gómez",
+    "Materno": "Silva",
+    "Nombre": "Lucía"
+  },
+  {
+    "matricula": "A0060",
+    "Paterno": "Fernández",
+    "Materno": "López",
+    "Nombre": "Fernanda"
+  },
+  {
+    "matricula": "A0061",
+    "Paterno": "Castillo",
+    "Materno": "Martínez",
+    "Nombre": "José"
+  },
+  {
+    "matricula": "A0062",
+    "Paterno": "Silva",
+    "Materno": "Sánchez",
+    "Nombre": "Fernanda"
+  },
+  {
+    "matricula": "A0063",
+    "Paterno": "Mendoza",
+    "Materno": "Martínez",
+    "Nombre": "Daniela"
+  },
+  {
+    "matricula": "A0064",
+    "Paterno": "Cruz",
+    "Materno": "Jiménez",
+    "Nombre": "Daniela"
+  },
+  {
+    "matricula": "A0065",
+    "Paterno": "Ramírez",
+    "Materno": "Ortiz",
+    "Nombre": "Daniela"
+  },
+  {
+    "matricula": "A0066",
+    "Paterno": "Pérez",
+    "Materno": "Silva",
+    "Nombre": "Lucía"
+  },
+  {
+    "matricula": "A0067",
+    "Paterno": "Martínez",
+    "Materno": "Ruiz",
+    "Nombre": "Fernanda"
+  },
+  {
+    "matricula": "A0068",
+    "Paterno": "Ruiz",
+    "Materno": "Pérez",
+    "Nombre": "Daniela"
+  },
+  {
+    "matricula": "A0069",
+    "Paterno": "Pérez",
+    "Materno": "Ramírez",
+    "Nombre": "Laura"
+  },
+  {
+    "matricula": "A0070",
+    "Paterno": "Pérez",
+    "Materno": "Ruiz",
+    "Nombre": "Valeria"
+  },
+  {
+    "matricula": "A0071",
+    "Paterno": "Ramírez",
+    "Materno": "Ruiz",
+    "Nombre": "Lucía"
+  },
+  {
+    "matricula": "A0072",
+    "Paterno": "Mendoza",
+    "Materno": "Ortiz",
+    "Nombre": "María"
+  },
+  {
+    "matricula": "A0073",
+    "Paterno": "Delgado",
+    "Materno": "López",
+    "Nombre": "Ana"
+  },
+  {
+    "matricula": "A0074",
+    "Paterno": "Castillo",
+    "Materno": "Mendoza",
+    "Nombre": "Daniela"
+  },
+  {
+    "matricula": "A0075",
+    "Paterno": "Hernández",
+    "Materno": "Delgado",
+    "Nombre": "Jorge"
+  },
+  {
+    "matricula": "A0076",
+    "Paterno": "Sánchez",
+    "Materno": "Ortiz",
+    "Nombre": "Laura"
+  },
+  {
+    "matricula": "A0077",
+    "Paterno": "Torres",
+    "Materno": "Hernández",
+    "Nombre": "Paola"
+  },
+  {
+    "matricula": "A0078",
+    "Paterno": "Morales",
+    "Materno": "Delgado",
+    "Nombre": "Pedro"
+  },
+  {
+    "matricula": "A0079",
+    "Paterno": "Aguilar",
+    "Materno": "Gómez",
+    "Nombre": "Miguel"
+  },
+  {
+    "matricula": "A0080",
+    "Paterno": "Hernández",
+    "Materno": "Ramírez",
+    "Nombre": "Valeria"
+  },
+  {
+    "matricula": "A0081",
+    "Paterno": "Pérez",
+    "Materno": "Silva",
+    "Nombre": "Sofía"
+  },
+  {
+    "matricula": "A0082",
+    "Paterno": "Pérez",
+    "Materno": "Castillo",
+    "Nombre": "Lucía"
+  },
+  {
+    "matricula": "A0083",
+    "Paterno": "Torres",
+    "Materno": "Ruiz",
+    "Nombre": "Ricardo"
+  },
+  {
+    "matricula": "A0084",
+    "Paterno": "Cruz",
+    "Materno": "Hernández",
+    "Nombre": "Sofía"
+  },
+  {
+    "matricula": "A0085",
+    "Paterno": "Ramírez",
+    "Materno": "Ortiz",
+    "Nombre": "Pedro"
+  },
+  {
+    "matricula": "A0086",
+    "Paterno": "Silva",
+    "Materno": "Silva",
+    "Nombre": "Ricardo"
+  },
+  {
+    "matricula": "A0087",
+    "Paterno": "Delgado",
+    "Materno": "Sánchez",
+    "Nombre": "Paola"
+  },
+  {
+    "matricula": "A0088",
+    "Paterno": "Navarro",
+    "Materno": "Gómez",
+    "Nombre": "Fernanda"
+  },
+  {
+    "matricula": "A0089",
+    "Paterno": "Aguilar",
+    "Materno": "Gómez",
+    "Nombre": "Fernanda"
+  },
+  {
+    "matricula": "A0090",
+    "Paterno": "Morales",
+    "Materno": "Delgado",
+    "Nombre": "Daniela"
+  },
+  {
+    "matricula": "A0091",
+    "Paterno": "Jiménez",
+    "Materno": "Gómez",
+    "Nombre": "Sofía"
+  },
+  {
+    "matricula": "A0092",
+    "Paterno": "Martínez",
+    "Materno": "Navarro",
+    "Nombre": "Carlos"
+  },
+  {
+    "matricula": "A0093",
+    "Paterno": "Hernández",
+    "Materno": "Silva",
+    "Nombre": "Pedro"
+  },
+  {
+    "matricula": "A0094",
+    "Paterno": "Aguilar",
+    "Materno": "Sánchez",
+    "Nombre": "Andrés"
+  },
+  {
+    "matricula": "A0095",
+    "Paterno": "Castillo",
+    "Materno": "Mendoza",
+    "Nombre": "Diana"
+  },
+  {
+    "matricula": "A0096",
+    "Paterno": "Ramírez",
+    "Materno": "Hernández",
+    "Nombre": "Alejandro"
+  },
+  {
+    "matricula": "A0097",
+    "Paterno": "Delgado",
+    "Materno": "Silva",
+    "Nombre": "Valeria"
+  },
+  {
+    "matricula": "A0098",
+    "Paterno": "Castillo",
+    "Materno": "Torres",
+    "Nombre": "Daniela"
+  },
+  {
+    "matricula": "A0099",
+    "Paterno": "Hernández",
+    "Materno": "Delgado",
+    "Nombre": "Héctor"
+  },
+  {
+    "matricula": "A0100",
+    "Paterno": "Jiménez",
+    "Materno": "Torres",
+    "Nombre": "Lucía"
+  },
+  {
+    "matricula": "A0100",
+    "Paterno": "Jiménez",
+    "Materno": "Torres",
+    "Nombre": "Lucía"
+  }
+]
